@@ -27,7 +27,7 @@ This project demonstrates the exploitation of a known vulnerability in the vsftp
 ![Step 2 - Nmap](screenshots/Step_2_vsftpd.jpg)
 
 ### Step 3: Launched Metasploit and searched for `vsftpd` exploit
-![Step 3 - Metasploit Search 1](screenshots/Step_3_msf_search1.png)  
+![Step 3 - Metasploit Search 1](screenshots/Step_3_msf_search1.jpg)  
 ![Step 3 - Metasploit Search 2](screenshots/Step_3_msf_search2.jpg)
 
 ### Step 4: Set RHOSTS and ran the exploit
@@ -67,7 +67,7 @@ This project demonstrates the exploitation of a known vulnerability in the vsftp
 
 A full lab write-up is included in the file below:
 
-- [`Metasploit_Exploitation_Lab_Report.pdf`](Metasploit_Exploitation_Lab_Report.pdf)
+- [`Metasploit_Exploitation_Lab_Report.pdf`](Metasploit_Exploitation_Lab_Report_Final.pdf)
 
 ## 🔐 Disclaimer
 
@@ -75,4 +75,4 @@ This lab was conducted in a **controlled local environment** for **educational p
 
 ---
 
-© 2025 Kevin Jared Goates
+© 2025 Kevin Goates
